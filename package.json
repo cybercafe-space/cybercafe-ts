@@ -3,11 +3,31 @@
   "version": "0.0.8",
   "description": "Typescript SDK for Cybercafe API.",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybercafe-space/cybercafe-ts.git"
+  },
+  "homepage": "https://github.com/cybercafe-space/cybercafe-ts#readme",
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=10.9.3"
   },
+  "keywords": [
+    "cybercafe",
+    "virtual-machines",
+    "windows-automation",
+    "remote-desktop",
+    "vm-control",
+    "sdk",
+    "typescript",
+    "api-client",
+    "headless",
+    "automation"
+  ],
   "devDependencies": {
     "@types/node": "^24.5.2",
     "typescript": "^5.9.2"
